@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="YachtTest" tests="28" skipped="0" failures="0" errors="0" timestamp="2020-02-20T17:09:14" hostname="ELSLABM-156783" time="0.012">
+  <properties/>
+  <testcase name="bigStraightAsLittleStraight" classname="YachtTest" time="0.002"/>
+  <testcase name="onesOutOfOrder" classname="YachtTest" time="0.0"/>
+  <testcase name="yachtCanBeScoredAsFourOfAKind" classname="YachtTest" time="0.0"/>
+  <testcase name="yachtCountedAsThrees" classname="YachtTest" time="0.0"/>
+  <testcase name="choice" classname="YachtTest" time="0.0"/>
+  <testcase name="noPairsButNotABigStraight" classname="YachtTest" time="0.0"/>
+  <testcase name="fullHouseTwoSmallThreeBig" classname="YachtTest" time="0.0"/>
+  <testcase name="yachtOfThreesCountedAsFives" classname="YachtTest" time="0.0"/>
+  <testcase name="noOnes" classname="YachtTest" time="0.0"/>
+  <testcase name="noPairsButNotALittleStraight" classname="YachtTest" time="0.0"/>
+  <testcase name="littleStraightAsBigStraight" classname="YachtTest" time="0.0"/>
+  <testcase name="fourOfAKindIsNotAFullHouse" classname="YachtTest" time="0.0"/>
+  <testcase name="ones" classname="YachtTest" time="0.0"/>
+  <testcase name="twos" classname="YachtTest" time="0.001"/>
+  <testcase name="fours" classname="YachtTest" time="0.0"/>
+  <testcase name="sixes" classname="YachtTest" time="0.001"/>
+  <testcase name="yacht" classname="YachtTest" time="0.0"/>
+  <testcase name="littleStraight" classname="YachtTest" time="0.0"/>
+  <testcase name="yachtIsNotAFullHouse" classname="YachtTest" time="0.0"/>
+  <testcase name="fullHouseIsNotFourOfAKind" classname="YachtTest" time="0.0"/>
+  <testcase name="twoPairIsNotAFullHouse" classname="YachtTest" time="0.0"/>
+  <testcase name="yachtAsChoice" classname="YachtTest" time="0.0"/>
+  <testcase name="bigStraight" classname="YachtTest" time="0.0"/>
+  <testcase name="fourOfAKind" classname="YachtTest" time="0.0"/>
+  <testcase name="notYacht" classname="YachtTest" time="0.0"/>
+  <testcase name="fourInOrderButNotALittleStraight" classname="YachtTest" time="0.0"/>
+  <testcase name="fullHouseThreeSmallTwoBig" classname="YachtTest" time="0.0"/>
+  <testcase name="minimumIs1MaximumIs5ButNotALittleStraight" classname="YachtTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
