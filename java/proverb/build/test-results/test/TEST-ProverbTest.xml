@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ProverbTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-02-21T18:56:05" hostname="ELSLABM-156783" time="0.043">
+<testsuite name="ProverbTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-02-28T09:28:40" hostname="ELSLABM-156783" time="0.03">
   <properties/>
-  <testcase name="shortChainOfConsequences" classname="ProverbTest" time="0.04"/>
+  <testcase name="shortChainOfConsequences" classname="ProverbTest" time="0.028"/>
   <testcase name="fullProverb" classname="ProverbTest" time="0.0"/>
-  <testcase name="zeroWordsAreGiven" classname="ProverbTest" time="0.001"/>
+  <testcase name="zeroWordsAreGiven" classname="ProverbTest" time="0.0"/>
   <testcase name="singlePieceOfProverb" classname="ProverbTest" time="0.0"/>
   <testcase name="twoPiecesOfProverb" classname="ProverbTest" time="0.0"/>
   <testcase name="fourPiecesModernizedProverb" classname="ProverbTest" time="0.0"/>
