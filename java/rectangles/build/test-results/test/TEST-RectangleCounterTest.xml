@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RectangleCounterTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-03-06T10:21:05" hostname="ELSLABM-156783" time="0.004">
+  <properties/>
+  <testcase name="testThatIncompleteRectanglesAreNotCounted" classname="RectangleCounterTest" time="0.001"/>
+  <testcase name="testNonTrivialInputWithNoRectangles" classname="RectangleCounterTest" time="0.0"/>
+  <testcase name="testInputWithNoRowsContainsNoRectangles" classname="RectangleCounterTest" time="0.0"/>
+  <testcase name="testThatRectanglesOfDifferentSizesAreAllCounted" classname="RectangleCounterTest" time="0.0"/>
+  <testcase name="testInputWithNoColumnsContainsNoRectangles" classname="RectangleCounterTest" time="0.0"/>
+  <testcase name="testThatRectangleOfWidthOneIsCounted" classname="RectangleCounterTest" time="0.0"/>
+  <testcase name="testInputWithFiveRectanglesWithSharedEdges" classname="RectangleCounterTest" time="0.0"/>
+  <testcase name="testThatRectangleOfHeightOneIsCounted" classname="RectangleCounterTest" time="0.0"/>
+  <testcase name="testThatOneByOneSquareIsCounted" classname="RectangleCounterTest" time="0.0"/>
+  <testcase name="testInputWithTwoRectanglesWithoutSharedEdges" classname="RectangleCounterTest" time="0.001"/>
+  <testcase name="testLargeInputWithManyRectangles" classname="RectangleCounterTest" time="0.0"/>
+  <testcase name="testInputWithOneRectangle" classname="RectangleCounterTest" time="0.0"/>
+  <testcase name="testThatIntersectionsWithoutCornerCharacterDoNotCountAsRectangleCorners" classname="RectangleCounterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
